@@ -14,7 +14,6 @@
 *.a
 *.asn1.[ch]
 *.bin
-*.bz2
 *.c.[012]*.*
 *.dt.yaml
 *.dtb
@@ -61,7 +60,6 @@ modules.order
 /vmlinux.map
 /vmlinux.symvers
 /vmlinux-gdb.py
-/vmlinuz
 /System.map
 /Module.markers
 /modules.builtin
